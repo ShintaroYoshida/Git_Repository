@@ -2,4 +2,8 @@ sample text
 
 comment
 
+<<<<<<< HEAD
 master
+=======
+develop
+>>>>>>> develop
