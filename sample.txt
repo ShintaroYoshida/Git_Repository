@@ -2,9 +2,7 @@ sample text
 
 comment
 
+master
 develop
-
-
-
 
 merge
